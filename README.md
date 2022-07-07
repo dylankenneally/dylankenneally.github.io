@@ -11,4 +11,4 @@ This repo is just a playground to help me get familiar with [Jekyll](https://jek
 
 Anything interesting will be shown in the site that gets [deployed from this repo](https://dylankenneally.github.io/).
 
-More interest thank this would be my [sire](https://www.dylankenneally.com) & my [link tree](http://dylankenneally.com/).
+More interest thank this would be my [site](https://www.dylankenneally.com) & my [link tree](http://dylankenneally.com/).
