@@ -43,8 +43,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Some old stuff I've put on GitHub pages before
 
-| What | Repo | Live |
-|:-    |:-    |:-    |
-| Budget Planner. Last updated on 1 Jul 2019.<br>Basic clone of <a href="https://moneysmart.gov.au/budgeting/budget-planner" target="_blank">ASCI's Money Smart Budget Planner</a>, or it was at the time of writing. | <a href="https://github.com/dylankenneally/budget-planner">https://github.com/dylankenneally/budget-planner</a> | <a href=" https://dylankenneally.github.io/budget-planner/">https://dylankenneally.github.io/budget-planner/</a> |
-| Jigsaw puzzle. Last updated on 22 Mar 2021.<br>Pure JS, messing about with the canvas. | <a href="https://github.com/dylankenneally/jigsaw-puzzle">https://github.com/dylankenneally/jigsaw-puzzle</a> | <a href="https://dylankenneally.github.io/jigsaw-puzzle/">https://dylankenneally.github.io/jigsaw-puzzle/</a> |
-| HIG Icons: Autodesk's Human Interface Guidelines Icon search tool. Last updated on 30 Jun 2020.<br>Former employer of mine, wrote this to help the XD crew and developers see what we had for iconography in HIG. | <a href="https://github.com/dylankenneally/hig-icons">https://github.com/dylankenneally/hig-icons</a> | <a href="https://dylankenneally.github.io/hig-icons/">https://dylankenneally.github.io/hig-icons/</a> |
+- Budget Planner.
+  - Last updated on 1 Jul 2019.
+  - Basic clone of <a href="https://moneysmart.gov.au/budgeting/budget-planner" target="_blank">ASCI's Money Smart Budget Planner</a>, or it was at the time of writing.
+  - [Source repo](https://github.com/dylankenneally/budget-planner).
+  - [Live on pages](https://dylankenneally.github.io/budget-planner/).
+- Jigsaw puzzle.
+  - Last updated on 22 Mar 2021.
+  - Pure JS, messing about with the canvas.
+  - [Source repo](https://github.com/dylankenneally/jigsaw-puzzle)
+  - [Live on pages](https://dylankenneally.github.io/jigsaw-puzzle)
+- HIG Icons: Autodesk's Human Interface Guidelines Icon search tool.
+  - Last updated on 30 Jun 2020.
+  - Former employer of mine, wrote this to help the XD crew and developers see what we had for iconography in HIG.
+  - [Source repo](https://github.com/dylankenneally/hig-icons)
+  - [Live on pages](https://dylankenneally.github.io/hig-icons/)
