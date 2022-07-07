@@ -1,5 +1,5 @@
-# dylankenneally.github.io
-GitHub Pages for https://dylankenneally.github.io - exploring, experimenting, nothing of merit.
+# [dylankenneally.github.io](https://dylankenneally.github.io/)
+GitHub pages experiments with [Jekyll](https://jekyllrb.com/). Nothing to see here.
 
-I doubt there will be much of interest code wise in this repo, I'm simple using it to explore [Jekyll](https://jekyllrb.com/) & the
-automation pipeline in GitHub. Anything interesting will be highlighted in the site that's deployed from here.
+Using this repo as a plagyground to get an overview of [Jekyll](https://jekyllrb.com/) and the updated automation pipeline in GitHub. Anything
+interesting will be highlighted in the site that's [deployed from here](https://dylankenneally.github.io/).
