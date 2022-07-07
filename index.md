@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+---
+id: index
+title: Welcome
+---
+
+## YAML, markdown, all that jazz
 
 You can use the [editor on GitHub](https://github.com/dylankenneally/dylankenneally.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
