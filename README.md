@@ -1,5 +1,14 @@
-# [dylankenneally.github.io](https://dylankenneally.github.io/)
-GitHub pages experiments with [Jekyll](https://jekyllrb.com/). Nothing to see here.
+<!--
+add build status badge: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge
+    click it - go to build logs
+ -->
 
-Using this repo as a plagyground to get an overview of [Jekyll](https://jekyllrb.com/) and the updated automation pipeline in GitHub. Anything
-interesting will be highlighted in the site that's [deployed from here](https://dylankenneally.github.io/).
+# [dylankenneally.github.io](https://dylankenneally.github.io/)
+
+[GitHub pages](https://docs.github.com/en/pages) experiments with  [Jekyll](https://jekyllrb.com/). Nothing to see here.
+
+This repo is just a playground to help me get familiar with [Jekyll](https://jekyllrb.com/) and the updated automation pipeline in GitHub.
+
+Anything interesting will be shown in the site that gets [deployed from this repo](https://dylankenneally.github.io/).
+
+More interest thank this would be my [sire](https://www.dylankenneally.com) & my [link tree](http://dylankenneally.com/).
