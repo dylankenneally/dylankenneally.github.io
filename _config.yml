@@ -5,4 +5,4 @@ title: Dylan Kenneally
 description: Experimenting with Jekyll
 # show_downloads: true | false # set to true if you want to offer downloads of the repo as zip & tar, plus a button link to the repo
 # google_analytics: # Your Google Analytics tracking ID
-logo: /assets/img/logo.png
+# logo: /assets/img/logo.png  - takes from the theme if not local

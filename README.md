@@ -5,13 +5,13 @@ add build status badge: https://docs.github.com/en/actions/monitoring-and-troubl
 
 # [dylankenneally.github.io](https://dylankenneally.github.io/)
 
-[GitHub pages](https://docs.github.com/en/pages) experiments with  [Jekyll](https://jekyllrb.com/). Nothing to see here.
+[GitHub pages](https://docs.github.com/en/pages)' experiments with  [Jekyll](https://jekyllrb.com/). Nothing to see here.
 
 This repo is just a playground to help me get familiar with [Jekyll](https://jekyllrb.com/) and the updated automation pipeline in GitHub.
 
 Anything interesting will be shown in the site that gets [deployed from this repo](https://dylankenneally.github.io/).
 
-More interest thank this would be my [site](https://www.dylankenneally.com) & my [link tree](http://dylankenneally.com/).
+Of more interest would be my [site](https://www.dylankenneally.com) & my [link tree](http://dylankenneally.com/).
 
 ## notes
 
