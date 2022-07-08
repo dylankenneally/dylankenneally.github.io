@@ -25,8 +25,10 @@ of more interest would be my [site](https://www.dylankenneally.com) & my [link t
 ## findings
 
 1. first thing i spot is that it's markdown processor/interpreter is not playing ball with <kbd>crlf</kbd> like my current go to/preferred tooling does (markdown preview enhanced[^md-prev-enhanced] + markdown all in one[^md-all-in-one] as extensions in visual studio code)
-  1. i hope i'm right in thinking that can be configured; a key reason to look as jekyll (& others, like ghost) is another project needing to render 100's of markdown files
-  1. hmmm, don't often find people/tools drifting far from gfm, seems really odd
+    - i hope i'm right in thinking that can be configured; a key reason to look as jekyll (& others, like ghost) is another project needing to render 100's of markdown files
+    - hmmm, don't often find people/tools drifting far from gfm, seems really odd
+1. render on galaxy 8, or iphone 12, via dev tools: in landscape mode - there's a lot of wasted space around the logo. for what purpose?
+    - can we / should we get useful rendered content there instead? check with no logo too. scale the logo? options galore
 
 <!-- footnotes used in this document -->
 [^md-prev-enhanced]: markdown preview enhanced on the <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced" title="vs code's marketplace (new tab)" target="_blank">vs code market place</a> & <a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced" title="source code (new tab)" target="_blank">source code</a>.
