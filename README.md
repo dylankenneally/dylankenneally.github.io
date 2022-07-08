@@ -19,4 +19,4 @@ The minimal theme I picked came from <https://github.com/orderedlist/minimal>, s
 
 ## Findings
 
-to be noted here
+1. First thing I spot is that it's markdown rendering is not playing ball with CRLF... that could be shit, it must be configurable.
