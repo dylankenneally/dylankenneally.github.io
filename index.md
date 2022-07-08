@@ -11,7 +11,7 @@ These are all old & unmaintained little toy projects I’ve knocked up when I’
 ### Budget Planner
 
 Last updated on 1 Jul 2019.
-I was looking into Travis CI, i18next, & chart.js UI was a rough clone of <a href="https://moneysmart.gov.au/budgeting/budget-planner" target="_blank">ASCI's Money Smart Budget Planner</a>, or it was at the time of writing.
+I was looking into Travis CI, i18next, & chart.js UI was a rough clone of ASCI's <a href="https://moneysmart.gov.au/budgeting/budget-planner" title="Money Smart Budget Planner (new tab)" target="_blank">Money Smart Budget Planner</a>, or it was at the time of writing.
 [Source repo](https://github.com/dylankenneally/budget-planner).
 [Live on pages](https://dylankenneally.github.io/budget-planner/).
 
@@ -30,5 +30,6 @@ Autodesk is a former employer of mine.
 [Source repo](https://github.com/dylankenneally/hig-icons).
 [Live on pages](https://dylankenneally.github.io/hig-icons/).
 
+<!-- abbreviations used in this document -->
 *[ASCI]: Australian Securities and Investments Commission
-*[HIG]: Human Interface Guidelines Icon
+*[HIG]: Human Interface Guidelines
