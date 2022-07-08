@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: Dylan Kenneally - Developer
 description: Experimenting with Jekyll
-# show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-show_downloads: true
+
+# show_downloads: true | false # set to true if you want to offer downloads of the repo as zip & tar, plus a button link to the repo
 # google_analytics: [Your Google Analytics tracking ID]
