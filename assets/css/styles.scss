@@ -1,8 +1,24 @@
 ---
 ---
 
+body {
+  background-color: blue;
+  text-align: center;
+}
+
+:root {
+  --dylan1: blue;
+  --dylan2: red;
+}
+
 @import "jekyll-theme-minimal";
 
 body {
-    background-color: red;
+  background-color: red;
+  text-align: end;
+}
+
+:root {
+  --dylan2: green;
+  --dylan3: orange;
 }
