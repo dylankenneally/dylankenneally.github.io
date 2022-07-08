@@ -11,6 +11,14 @@ body {
   --dylan2: red;
 }
 
+.lemons {
+    background-color: lime;
+}
+
+#main-index {
+    background-color: brown;
+}
+
 @import "jekyll-theme-minimal";
 
 body {
@@ -22,3 +30,16 @@ body {
   --dylan2: green;
   --dylan3: orange;
 }
+
+// this file is processed, but the contents are not included in the ourput, todo: figure me out
+// the theme repo mentions its doable, but not in the philosophy - layout and css to suit the masses is what ther are going for
+// could it be tree shaking that's removed int
+
+.lemons {
+    background-color: yellow;
+}
+
+#main-index {
+    background-color: pink;
+}
+
