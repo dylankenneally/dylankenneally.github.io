@@ -7,6 +7,7 @@ export default function(config) {
   });
 
   config.addPassthroughCopy("assets");
+  config.addPassthroughCopy("CNAME");
 
   config.addNunjucksAsyncFilter("jsmin", async function(code, callback) {
     try {
