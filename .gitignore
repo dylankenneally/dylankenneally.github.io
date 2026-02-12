@@ -1,0 +1,11 @@
+scratch-pad/
+
+# minimal theme I'm using for Jekyll, here as a reference only - not in use by the code base
+# Sourrce https://github.com/pages-themes/minimal; Demo: pages-themes.github.io/minimal/
+# zip downloaded form the demo site pages-themes.github.io/minimal/
+copy-of-the-theme-being-usesd/
+
+# build artifcats I've grabed form the CI system at https://github.com/dylankenneally/dylankenneally.github.io/actions
+build-output/
+
+
