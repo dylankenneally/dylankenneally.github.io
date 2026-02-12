@@ -1,0 +1,53 @@
+{
+  "title": "Digital scrapbook",
+  "description": "Dylan Kenneally's digital scrapbook.",
+  "favicon": "/assets/icon.png",
+  "share": "/assets/share-image.jpg",
+  "url": "https://kenneally.dev",
+  "author": "Dylan Kenneally",
+  "mail": "hello+digitalscrapbook@dylankenneally.com",
+  "lang": "en",
+  "social": "@dylankenneally",
+  "en": {
+    "title": "Digital scrapbook",
+    "description": "An incomplete collection of little projects, experiments and toys I've made over the years.",
+    "contact": "Contact me",
+    "about": "Other places to find me:",
+
+    "httpStatuses": "HTTP Statuses",
+    "httpStatusesBlurb": "An easy to use reference for HTTP status codes",
+    "httpStatusesDate": "2023 - 2026",
+
+    "snowballToy": "3d game toy",
+    "snowballToyBlurb": "Throw snowballs to knock down snowmen!",
+    "snowballToyDate": "Dec '22",
+
+    "christmasCard": "Christmas Card",
+    "christmasCardBlurb": "Interactive card I made for fun in 2022",
+    "christmasCardDate": "Dec '22",
+
+    "passwordGenerator": "passwords",
+    "passwordGeneratorBlurb": "A simple, secure password generator app",
+    "passwordGeneratorDate": "Jan '26",
+
+    "reactNativeSshSftp": "react-native-ssh-sftp",
+    "reactNativeSshSftpBlurb": "SSH & SFTP on React Native? Oh my!",
+    "reactNativeSshSftpDate": "Jun '24",
+
+    "treeWalkers": "tree walkers (stg)",
+    "treeWalkersBlurb": "Client site for an arborist company",
+    "treeWalkersDate": "2023",
+
+    "jigsawPuzzle": "Jigsaw puzzle",
+    "jigsawPuzzleBlurb": "A jigsaw puzzle game, written to kill a couple of hours while in covid-19 lock down",
+    "jigsawPuzzleDate": "Mar '21",
+
+    "hig": "HIG icons",
+    "higBlurb": "Quick icon viewer for Autodesk HIG design system",
+    "higDate": "2019",
+
+    "budgetPlanner": "Budget Planner",
+    "budgetPlannerBlurb": "A simple budget planner app",
+    "budgetPlannerDate": "2019"
+  }
+}

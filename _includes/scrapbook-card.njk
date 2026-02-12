@@ -1,0 +1,28 @@
+<!-- Polaroid-style photo -->
+{% macro scrapbookCard(imgHref, title, blurb, date, destHref, ghHref, class) %}
+
+<div class="scrapbook-card {{ class }}">
+    <a href="{{ destHref }}" target="_blank" rel="noopener noreferrer" class="scrapbook-card-polaroid">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120">
+        <rect width="100%" height="100%" fill="none"/>
+        <rect x="2" y="2" width="96" height="116" fill="#ffffff" stroke="#333" stroke-width="3" rx="4"/>
+        <rect x="7.5" y="7.5" width="85" height="85" fill="#e3f2fd"/>
+        <image href={{ imgHref }} x="7.5" y="7.5" height="85" width="85"/>
+        <text x="50" y="107.5" text-anchor="middle" class="scrapbook-card-polaroid-title">{{ title }}</text>
+      </svg>
+    </a>
+    <span class="scrapbook-card-info">
+      <h3 class="scrapbook-card-blurb">{{ blurb }}</h3>
+      <h4 class="scrapbook-card-date">{{ date }}</h4>
+    </span>
+
+    {% if ghHref is defined %}
+    <span class="scrapbook-card-links">
+      <a href="{{ ghHref }}" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/octocat.svg" alt="GitHub logo"/>
+      </a>
+    </span>
+    {% endif %}
+</div>
+
+{% endmacro %}
