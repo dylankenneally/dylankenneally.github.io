@@ -1,0 +1,151 @@
+---
+layout: base.njk
+---
+
+<header>
+  <span>
+    <h1>{{ metadata.en.title }}</h1>
+    <h2>{{ metadata.en.description }}</h2>
+  </span>
+  <nav>
+    <a href="mailto:{{metadata.mail }}">
+      {{ metadata.en.contact }}
+    </a>
+    <a href="https://github.com/dylankenneally/dylankenneally.github.io" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/octocat-black.svg" alt="GitHub logo"/>
+    </a>
+  </nav>
+</header>
+
+<section class="scrapbook">
+  <section class="scrapbook-page">
+    {% from 'scrapbook-card.njk' import scrapbookCard %}
+
+    {{ scrapbookCard(
+        imgHref="/assets/httpstatuses.png",
+        title=metadata.en.httpStatuses,
+        blurb=metadata.en.httpStatusesBlurb,
+        ghHref="http://github.com/dylankenneally/http-statuses",
+        destHref="https://httpstatuses.kenneally.dev/",
+        date=metadata.en.httpStatusesDate
+      )
+    }}
+
+    {{ scrapbookCard(
+        imgHref="/assets/snowball-toy.png",
+        title=metadata.en.snowballToy,
+        blurb=metadata.en.snowballToyBlurb,
+        destHref="https://kenneally.dev/christmas-2022/snowball-toy/",
+        ghHref="http://github.com/dylankenneally/christmas-2022",
+        date=metadata.en.snowballToyDate
+      )
+    }}
+
+    {{ scrapbookCard(
+        imgHref="/assets/password-generator.png",
+        title=metadata.en.passwordGenerator,
+        blurb=metadata.en.passwordGeneratorBlurb,
+        destHref="https://kenneally.dev/password-generator/",
+        ghHref="http://github.com/dylankenneally/password-generator",
+        date=metadata.en.passwordGeneratorDate
+      )
+    }}
+
+    {{ scrapbookCard(
+        imgHref="/assets/christmas-card.png",
+        title=metadata.en.christmasCard,
+        blurb=metadata.en.christmasCardBlurb,
+        destHref="https://kenneally.dev/christmas-2022/",
+        ghHref="http://github.com/dylankenneally/christmas-2022",
+        date=metadata.en.christmasCardDate
+      )
+    }}
+
+    {{ scrapbookCard(
+        imgHref="/assets/npm.svg",
+        title=metadata.en.reactNativeSshSftp,
+        blurb=metadata.en.reactNativeSshSftpBlurb,
+        destHref="https://www.npmjs.com/package/@dylankenneally/react-native-ssh-sftp",
+        ghHref="https://github.com/dylankenneally/react-native-ssh-sftp",
+        date=metadata.en.reactNativeSshSftpDate,
+        class="repo-card"
+      )
+    }}
+  </section>
+
+  <section class="scrapbook-page">
+    {{ scrapbookCard(
+        imgHref="/assets/treewalkers.png",
+        title=metadata.en.treeWalkers,
+        blurb=metadata.en.treeWalkersBlurb,
+        destHref="https://dylankenneally-stg-treewalkers.netlify.app/",
+        date=metadata.en.treeWalkersDate
+      )
+    }}
+
+    {{
+      scrapbookCard(
+        imgHref="/assets/jigsaw.png",
+        title=metadata.en.jigsawPuzzle,
+        blurb=metadata.en.jigsawPuzzleBlurb,
+        destHref="https://kenneally.dev/jigsaw-puzzle/",
+        ghHref="https://github.com/dylankenneally/jigsaw-puzzle",
+        date=metadata.en.jigsawPuzzleDate
+      )
+    }}
+
+    {{ scrapbookCard(
+        imgHref="/assets/hig.png",
+        title=metadata.en.hig,
+        blurb=metadata.en.higBlurb,
+        destHref="https://kenneally.dev/hig-icons/",
+        ghHref="https://github.com/dylankenneally/hig-icons",
+        date=metadata.en.higDate
+      )
+    }}
+
+    {{ scrapbookCard(
+        imgHref="/assets/budget.png",
+        title=metadata.en.budgetPlanner,
+        blurb=metadata.en.budgetPlannerBlurb,
+        destHref="https://kenneally.dev/budget-planner/",
+        ghHref="https://github.com/dylankenneally/budget-planner",
+        date=metadata.en.budgetPlannerDate
+      )
+    }}
+  </section>
+
+  <section class="scrapbook-page about" id="about">
+    <h2>{{ metadata.en.about }}</h2>
+    <nav>
+    <a href="https://dylankenneally.com" target="_blank" rel="noopener noreferrer">
+      <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#1f1f1f"><path d="M260-160q-91 0-155.5-63T40-377q0-78 47-139t123-78q25-92 100-149t170-57q117 0 198.5 81.5T760-520q69 8 114.5 59.5T920-340q0 75-52.5 127.5T740-160H260Zm0-80h480q42 0 71-29t29-71q0-42-29-71t-71-29h-60v-80q0-83-58.5-141.5T480-720q-83 0-141.5 58.5T280-520h-20q-58 0-99 41t-41 99q0 58 41 99t99 41Zm220-240Z"/></svg>
+    </a>
+    <a href="https://github.com/dylankenneally" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/octocat.svg" alt="GitHub logo"/>
+    </a>
+    <a href="https://linkedin.com/in/dylankenneally" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/linkedin.svg" alt="LinkedIn logo"/>
+    </a>
+    <a href="https://x.com/dylankenneally" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/x.png" alt="X logo"/>
+    </a>
+    <a href="https://facebook.com/dylankenneally" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/facebook.svg" alt="Facebook logo"/>
+    </a>
+    <a href="https://instagram.com/dylankenneally_" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/instagram.svg" alt="Instagram logo"/>
+    </a>
+    </nav>
+  </section>
+</section>
+
+<footer>
+  <span>
+    <h4>
+      © {{ metadata.author }} 2026. |
+      <a href="mailto:{{metadata.mail }}">{{ metadata.en.contact }}</a> |
+      <a href="https://github.com/dylankenneally/dylankenneally.github.io" target="_blank" rel="noopener noreferrer"><img src="/assets/octocat-black.svg" alt="GitHub logo"/></a>
+    </h4>
+  </span>
+</footer>
