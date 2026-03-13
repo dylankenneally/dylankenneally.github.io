@@ -12,8 +12,7 @@
   ],
   "scripts": {
     "start": "npx eleventy --serve",
-    "build": "npx eleventy",
-    "deploy": "npm run build && gh-pages -d _site"
+    "build": "npx eleventy"
   },
   "homepage": "https://dylankenneally.github.io/dylankenneally.github.io",
   "repository": {
@@ -27,7 +26,6 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
     "clean-css": "^5.3.3",
-    "gh-pages": "^6.3.0",
     "terser": "^5.46.0"
   }
 }

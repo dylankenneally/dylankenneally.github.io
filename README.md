@@ -32,4 +32,7 @@ The following scripts are available once `npm install` has been ran.
 | - | - |
 | `npm start` | **Starts the development server** after building the site. |
 | `npm run build` | Performs a **production build** of the site/app to `./_site`. |
-| `npm run deploy` | Builds and **deploys the site** to GitHub Pages. |
+
+## Deployment
+
+Pushes to the `master` branch are automatically deployed to [kenneally.dev](https://kenneally.dev/).
